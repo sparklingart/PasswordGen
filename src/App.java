@@ -7,5 +7,6 @@ public class App {
         sc.close();
 
         System.out.println(userInput);
+        Symbol.testOutput();
     }
 }
